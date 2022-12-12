@@ -1,0 +1,9 @@
+{
+  "userContext": {
+    "personas": ["P1", "P2"],
+    "cityId":  10,
+    "MP": "XYZ",
+    "BL": "ABC"
+  }
+}
+
