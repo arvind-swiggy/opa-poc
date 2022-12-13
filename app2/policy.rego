@@ -2,10 +2,10 @@ package oparules.app2
 
 import future.keywords.if
 
-import oparules.core.mpMatches
-import oparules.core.blMatches
-import oparules.core.cityMatches
-import oparules.core.personaMatches
+import data.oparules.core.mpMatches
+import data.oparules.core.blMatches
+import data.oparules.core.cityMatches
+import data.oparules.core.personaMatches
 
 default allow := false
 
